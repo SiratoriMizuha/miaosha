@@ -1,0 +1,15 @@
+C:\Users\54526\IdeaProjects\miaosha\src\main\java\com\miaoshaproject\controller\BaseController.java
+C:\Users\54526\IdeaProjects\miaosha\src\main\java\com\miaoshaproject\error\CommonError.java
+C:\Users\54526\IdeaProjects\miaosha\src\main\java\com\miaoshaproject\controller\UserController.java
+C:\Users\54526\IdeaProjects\miaosha\src\main\java\com\miaoshaproject\dataobject\UserPasswordDO.java
+C:\Users\54526\IdeaProjects\miaosha\src\main\java\com\miaoshaproject\error\EmBusinessError.java
+C:\Users\54526\IdeaProjects\miaosha\src\main\java\com\miaoshaproject\dao\UserPasswordDOMapper.java
+C:\Users\54526\IdeaProjects\miaosha\src\main\java\com\miaoshaproject\dataobject\UserDO.java
+C:\Users\54526\IdeaProjects\miaosha\src\main\java\com\miaoshaproject\service\UserService.java
+C:\Users\54526\IdeaProjects\miaosha\src\main\java\com\miaoshaproject\controller\viewobject\UserVO.java
+C:\Users\54526\IdeaProjects\miaosha\src\main\java\com\miaoshaproject\service\model\UserModel.java
+C:\Users\54526\IdeaProjects\miaosha\src\main\java\com\miaoshaproject\App.java
+C:\Users\54526\IdeaProjects\miaosha\src\main\java\com\miaoshaproject\dao\UserDOMapper.java
+C:\Users\54526\IdeaProjects\miaosha\src\main\java\com\miaoshaproject\error\BusinessException.java
+C:\Users\54526\IdeaProjects\miaosha\src\main\java\com\miaoshaproject\response\CommonReturnType.java
+C:\Users\54526\IdeaProjects\miaosha\src\main\java\com\miaoshaproject\service\impl\UserServiceImpl.java
